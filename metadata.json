@@ -1,0 +1,7 @@
+{
+  "name": "VIBE Beverages",
+  "description": "A high-energy, immersive beverage brand experience for the next generation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
